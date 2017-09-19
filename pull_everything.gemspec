@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Automagically opens PRs for all your Viking Repos.}
   spec.description   = %q{Automagically opens PRs for all your Viking Repos.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/kitlangton/pull_everything"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
